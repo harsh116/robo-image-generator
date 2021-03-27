@@ -1,0 +1,7 @@
+.cardStyle
+{
+	background: linear-gradient(to right, rgb(44, 216, 44), rgb(149, 142, 240));
+	width: 26rem;
+	height: 30rem;
+	margin: auto;
+}

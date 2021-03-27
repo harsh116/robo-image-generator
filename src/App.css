@@ -1,0 +1,10 @@
+body{
+	font-family: 'Kiwi Maru', serif;
+	font-size: 2rem;
+	background-image: url("https://i.pinimg.com/564x/e9/29/1c/e9291cc39e820cd4afc6e58618dfc9e0.jpg");
+}
+
+.light_shade
+{
+	background-color: rgb(255, 170, 170,0.5);
+}
