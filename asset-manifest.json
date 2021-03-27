@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/robo-image-generator/static/css/main.0e56da01.chunk.css",
+    "main.js": "/robo-image-generator/static/js/main.7dbacca0.chunk.js",
+    "main.js.map": "/robo-image-generator/static/js/main.7dbacca0.chunk.js.map",
+    "runtime-main.js": "/robo-image-generator/static/js/runtime-main.4f980746.js",
+    "runtime-main.js.map": "/robo-image-generator/static/js/runtime-main.4f980746.js.map",
+    "static/css/2.fe359a49.chunk.css": "/robo-image-generator/static/css/2.fe359a49.chunk.css",
+    "static/js/2.aa994350.chunk.js": "/robo-image-generator/static/js/2.aa994350.chunk.js",
+    "static/js/2.aa994350.chunk.js.map": "/robo-image-generator/static/js/2.aa994350.chunk.js.map",
+    "static/js/3.4bc7ca97.chunk.js": "/robo-image-generator/static/js/3.4bc7ca97.chunk.js",
+    "static/js/3.4bc7ca97.chunk.js.map": "/robo-image-generator/static/js/3.4bc7ca97.chunk.js.map",
+    "index.html": "/robo-image-generator/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/robo-image-generator/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.0e56da01.chunk.css.map": "/robo-image-generator/static/css/main.0e56da01.chunk.css.map",
+    "static/js/2.aa994350.chunk.js.LICENSE.txt": "/robo-image-generator/static/js/2.aa994350.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f980746.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.aa994350.chunk.js",
+    "static/css/main.0e56da01.chunk.css",
+    "static/js/main.7dbacca0.chunk.js"
+  ]
+}
